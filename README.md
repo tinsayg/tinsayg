@@ -36,7 +36,3 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-
-## 🎧 What I am listening to 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=49g1pe18e5cf7t6f7cj1vbjtp&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]([https://open.spotify.com/user/49g1pe18e5cf7t6f7cj1vbjtp?si=3a0bac1db0504d25](https://open.spotify.com/track/3hj6jHDmZfoQdukMi6bWF6))
