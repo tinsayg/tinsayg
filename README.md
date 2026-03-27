@@ -2,8 +2,7 @@
 ### Hey there 👋
 
 - 💼 Senior Computer Science Student at Minnesota State University, Mankato
-- 🎥 Incoming Software Engineer Intern @ FICO
-- 🌐 Prev Quality Engineering Intern @ Ceros, SWE @ Intulize, ML Researcher @ UWEC
+- 🌐  Prev Software Engineer Intern @ FICO, Prev Quality Engineering Intern @ Ceros, SWE @ Intulize, ML Researcher @ UWEC
 - 🔭 Machine Learning Researcher @  Minnesota State University, Mankato
 - ⚡ Fun fact: I am on a mission to go to all 50 states throughout US before graduation
  
